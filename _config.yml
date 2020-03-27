@@ -1,11 +1,13 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Denis Kazakov
+logo: "/images/logo.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
   <br><br>
-  Second description 
+  I am an experienced data scientist/researcher who worked on a variety of data-driven products in both academia and industry. I had the privilege of working on self-driving cars at Uber, natural language processing at Amazon, designing complex data features at startups, working on cutting-edge machine learning research with my advisor, and many more. My core strength is in understanding the problem from multiple perspectives and integrating that understanding into tangible deliverables. 
+  I care deeply about improving the lives of people through my work; and I sincerely believe in the power of technology and data intelligent systems to do so. I'm currently looking for my next project, so please feel free to reach out. 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/94kazakov/">LinkedIn</a> 
+  <a href="https://medium.com/@deniskazakov">Medium</a> 
+  <a href="https://github.com/d-kz">Github</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
