@@ -25,16 +25,16 @@
       <header> 
         <h1 align="center"><a href="{{ site.baseurl }}/"> {{ site.name }} </a></h1>
 
-        {% if page.home == 1 %}
+        
         <div align="center"> 
           <a href="https://www.linkedin.com/in/94kazakov/" class="fa fa-linkedin-square" style="font-size:36px">  </a> 
           <a href="https://medium.com/@deniskazakov" class="fa fa-medium" style="font-size:36px">  </a> 
           <a href="/pdf/DenisKazakov_resume.pdf" class="fa fa-file-text-o" style="font-size:36px">  </a> 
           <a href="https://github.com/d-kz" class="fa fa-github" style="font-size:36px">  </a> 
           <a href="https://www.instagram.com/beauty_fondue/" class="fa fa-instagram" style="font-size:36px">  </a> 
-
+          {% if page.home == 1 %}
           <br><br>
-
+          
 
           <img class="circular--portrait" src = "/images/logo.jpg?raw=true">
           
@@ -46,8 +46,9 @@
 
           <br><br>
           <img class="circular--portrait" src = "/images/wave.png?raw=true">
+          {% endif %}
         </div>
-        {% endif %}
+
           
 
         {% if page.home == 0 %}
