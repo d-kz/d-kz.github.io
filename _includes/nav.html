@@ -11,13 +11,16 @@
 
 <!-- Navigate to Home -->
 <!-- <h1><a href="{{ site.baseurl }}/">HOME</a></h1> -->
-<!-- <hr> -->
+<br>
+<hr>
 {% for post in include.posts %}
 	{%if page.title == post.title %}
 		<!-- Highlight current page -->
-    	<h2><a href="{{ site.baseurl }}{{ post.url }}"> {{ post.title }}</a> < </h2>
+    	<h2><deselected href="{{ site.baseurl }}{{ post.url }}"> {{ post.title }}</deselected> < </h2>
+      <br>
 	{% endif %}
 	{%if page.title != post.title %}
     	<h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+      <br>
 	{% endif %}
 {% endfor %}

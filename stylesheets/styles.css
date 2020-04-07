@@ -320,6 +320,10 @@ rounded_task {
   /*color: blue;*/  
 }
 
+deselected{
+   color:444 !important;
+}
+
 circle {
   border-style:solid;
   border-color:#287EC7;

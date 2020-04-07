@@ -8,16 +8,23 @@ about: Bi-weekly meetup to discuss design of things in all shape and form.
 # {{page.title}}
 {{page.about}} Feel free to <a href="mailto:94kazakov@gmail.com?Subject=Hello%20from%20your%20page" target="_top"><b>reach out</b></a> if you'd like to join. 
 
+Current members:
+- Denis Kazakov
+- Josh Preuss
+- Will Held
+
+Past topics and readings are below. Not all of them are included, but sci-hub still exists. 
+
 
 ---
-## 6: (Denis) Japanese Design
-Initially, was going to read framework type of textbook on design, but realized I disagree with their pitch of design as solely a search through some problem space to satisfy given constraints. As an antithesis, thought of Japanese minimalism and this is more a design through artistic lens. The book looks really good, but I can’t find the full pdf still. Here is something to get started. I think preface and chapter 1 (what’s available) is a good place to start. 
+## 7: (Denis) Japanese Design
+Initially, was going to read framework type of textbook on design, but realized I disagree with their pitch of design as solely a search through some problem space to satisfy given constraints. As an antithesis, thought of Japanese minimalism and this is more a design through artistic lens. 
 ### Reading:
 - Patricia Graham, _Japanese Design: Art, Aesthetics & Culture_: Chapter 1
 
 
 ---
-## 5: (Josh) Climate Policy Design 
+## 6: (Josh) Climate Policy Design 
 Focusing on **feed-in tarrifs**, **renewable portfolio standards**.
 ### Reading:
 - Hal Harvey, _Designing Climate Solutions: A Policy Guide for Low-Carbon Energy_ — energy section, specifically the design recommendations and case study subsections\
@@ -27,8 +34,9 @@ Focusing on **feed-in tarrifs**, **renewable portfolio standards**.
 - [Floating PV in the Persian Gulf](https://www.pv-magazine.com/2020/02/17/floating-pv-in-the-persian-gulf/?fbclid=IwAR3F-tOUVb4vSDl49PIxdkNXTy882-CphklgcJ29x3CpREGObTSIf8dasrM)
 - [Onion Futures Act](https://en.wikipedia.org/wiki/Onion_Futures_Act?fbclid=IwAR3CUV2_IiF6tiC2biQvdglQM5wh1Ppakf22d4wjX-TB-0rBc5W6zw9l90I)
 
+
 ---
-## 4: (Will) Market Ethics
+## 5: (Will) Market Ethics
 After having studied theoretical market design and it's use in the world, we discussed questions of how to use market design to design ethical systems. This week the reading starts with a exploration into current ethical problems in both theoretical markets and real digital markets using marker theory at their core. Then, it covers both practical and theoretical guides to solving these problems, as well as a study of the problems that can arise when using the obvious solutions to problems such as discrimination.
 ### Reading:
 - Intro:
@@ -47,7 +55,7 @@ After having studied theoretical market design and it's use in the world, we dis
 
 ---
 ## 4: (Denis) Marketplce Design
-
+Any exchange of something between two or more parties could be seen as a market. Market design is used in medical student matching, online advertisement bidding, kidney exchange programs, etc. It has a strong theoretical foundation and very intuitive applications, which makes it pretty sweet to study. 
 ### Reading:
 - https://pdfs.semanticscholar.org/6b51/fdd68f5b45e98b90731e00a5089d97fcb744.pdf - general marketplace review and framing
 - https://www.nber.org/papers/w16852.pdf - thoughts on internet markets
@@ -55,6 +63,10 @@ After having studied theoretical market design and it's use in the world, we dis
 	- https://en.wikipedia.org/wiki/Vickrey–Clarke–Groves_auction - proof of optimality (“honesty”) of VCG
 - https://izajole.springeropen.com/articles/10.1186/s40172-016-0042-z - the "Empirical applications” sections about using platforms data for stuff. 
 - “Is Transparency the Best Disinfectant?” A. Etzioni - an opinion on transparency (of markets) just for perspective.
+
+### Came up:
+- [Networks, Crowds, and Markets: Reasoning about a Highly Connected World](https://www.cs.cornell.edu/home/kleinber/networks-book/networks-book.pdf?fbclid=IwAR0PJpwResV5XTti0lbd3d7mqEHycXP1RvQM1sX5wsVjRrytyq-eHGyJ-Ho)
+
 
 ---
 ## 3: (Josh) Software systems design, part 2
@@ -65,6 +77,7 @@ Groups, interfaces, and abstractions and their impact on the user of these featu
 - https://www.youtube.com/watch?v=heh4OeB9A-c
 - https://www.jofreeman.com/joreen/tyranny.htm
 - http://web.mit.edu/Saltzer/www/publications/endtoend/endtoend.pdf
+
 
 ---
 ## 2: (Will) Software systems design, part 1
@@ -81,6 +94,7 @@ Culture of productivity and firing at large companies. How the organizational st
 - [Principle of least astonishment](https://en.wikipedia.org/wiki/Principle_of_least_astonishment?fbclid=IwAR2n6hNCy_WKVSy0nj-H5n6su9UkxVriVnvHm20s2VCs8mcPjlEUMp1gJSE)
 - ["How to fire people"](https://gimletmedia.com/shows/without-fail/94hrnv?fbclid=IwAR2YyMjhlFdl232PvRPa0RYQk5XvysNl-_RcWub92HGFvf0Rnct9lMRm6ag)
 - [Netflix Culture: presentation](https://www.slideshare.net/reed2001/culture-1798664?fbclid=IwAR3PhUnWh29E7siR1-EpngYxhzLEYHqbq7f8YKzKDWlcpMLO2hDApCpk9V4)
+
 
 ---
 ## 1: (Denis) Game Design: choices & balances 
