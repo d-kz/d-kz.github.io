@@ -5,7 +5,7 @@
 title: Denis | Data Scientist, Inquisitive Human, Dreamer
 name: Denis Kazakov
 
-logo: "/images/logo.jpg?raw=true" # your photo (or logo) here
+logo: "/images/logo.png?raw=true" # your photo (or logo) here
 
 include: ["_pages", "images/photo_portfolio"]
 
