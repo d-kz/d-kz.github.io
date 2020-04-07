@@ -6,6 +6,7 @@ about: Favourite photos in high resolution.
 ---
 
 # {{page.title}}
+{{page.about}} 
 
 {% for image in site.static_files %}
  {% if image.path contains 'images/portfolio' %}
