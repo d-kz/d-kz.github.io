@@ -13,7 +13,7 @@ Current members:
 - Josh Preuss
 - Will Held
 
-Past topics and readings are below. Not all of them are included, but sci-hub still exists. 
+Past topics and readings are below. Not all of the readings are included, but sci-hub.. 
 
 
 ---
@@ -39,8 +39,7 @@ Focusing on **feed-in tarrifs**, **renewable portfolio standards**.
 ## 5: (Will) Market Ethics
 After having studied theoretical market design and it's use in the world, we discussed questions of how to use market design to design ethical systems. This week the reading starts with a exploration into current ethical problems in both theoretical markets and real digital markets using marker theory at their core. Then, it covers both practical and theoretical guides to solving these problems, as well as a study of the problems that can arise when using the obvious solutions to problems such as discrimination.
 ### Reading:
-- Intro:
-	- Understanding Discrimination in "Optimally Designed Markets"
+- Understanding Discrimination in "Optimally Designed Markets"
 	- Practical Study: Racial Discrimination in the Sharing Economy, Edelman et al., 2016 (Only the introduction needed)
 	- Practical Study: Racial and Gender Discrimination in Transportation Network Companies, Ge et Al., 2016 (Introduction and Potential Modifications)\
 - Theoretical Work:
