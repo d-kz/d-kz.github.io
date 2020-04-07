@@ -1,18 +1,95 @@
-title: Denis Kazakov 
-# overwrite https://aregsar.com/blog/2019/how-to-customize-your-github-pages-blog-layout-in-five-minutes/
-logo: "/images/logo.jpg?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  I am an experienced data scientist who has worked on data-driven products in both academia and industry. My main goal is to improve the lives of others through my work.
-  <br><br>
-  I had the privilege of working on self-driving cars at Uber, NLP at Amazon, designing data features at startups, working on cutting-edge ML research, and many more. I'm always curious about new projects, so please feel free to reach out!
-  <br><br>
-  <a href="https://www.linkedin.com/in/94kazakov/" class="icon fa-linkedin">LinkedIn</a> 
-  <a href="https://medium.com/@deniskazakov" class="icon fa-medium">Medium</a> 
-  <a href="/pdf/DenisKazakov_resume.pdf" class="icon fa-file-text-o">Resume</a> 
-  <a href="https://github.com/d-kz" class="icon fa-github">Github</a> 
-  <a href="https://www.instagram.com/beauty_fondue/" class="icon fa-instagram">Instagram</a> 
-  
+#
+# This file contains configuration flags to customize your site
+#
 
-is_project_page: false
-theme: jekyll-theme-minimal 
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+title: Denis | Data Scientist
+name: Denis Kazakov
+
+logo: "/images/logo.jpg?raw=true" # your photo (or logo) here
+
+include: ["_pages", "images/photo_portfolio"]
+
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+  images:
+    output: true
+    permalink: /:path/
+
+
+
+
+#
+# Flags below are optional
+#
+
+# Includes an icon in the footer for each username you enter
+footer-links:
+  dribbble:
+  email:
+  facebook:
+  flickr:
+  github: barryclark/jekyll-now
+  instagram:
+  linkedin:
+  pinterest:
+  rss: # just type anything here for a working RSS icon
+  twitter: jekyllrb
+  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  youtube: # channel/<your_long_string> or user/<user-name>
+  googleplus: # anything in your profile username that comes after plus.google.com/
+
+
+# Enter your Disqus shortname (not your username) to enable commenting on posts
+# You can find your shortname on the Settings page of your Disqus account
+disqus:
+
+# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
+google_analytics:
+
+# Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
+# Used for Sitemap.xml and your RSS feed
+url:
+
+# If you're hosting your site at a Project repository on GitHub pages
+# (http://yourusername.github.io/repository-name)
+# and NOT your User repository (http://yourusername.github.io)
+# then add in the baseurl here, like this: "/repository-name"
+baseurl: ""
+
+#
+# !! You don't need to change any of the configuration flags below !!
+#
+
+permalink: /:title/
+
+# The release of Jekyll Now that you're using
+version: v1.2.0
+
+# Jekyll 3 now only supports Kramdown for Markdown
+kramdown:
+  # Use GitHub flavored markdown, including triple backtick fenced code blocks
+  input: GFM
+  # Jekyll 3 and GitHub Pages now only support rouge for syntax highlighting
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    # Use existing pygments syntax highlighting css
+    css_class: 'highlight'
+
+# Set the Sass partials directory, as we're using @imports
+sass:
+  style: :expanded # You might prefer to minify using :compressed
+
+# Use the following plug-ins
+gems:
+  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+  - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+
+# Exclude these files from your production _site
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - CNAME

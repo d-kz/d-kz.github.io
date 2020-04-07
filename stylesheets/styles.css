@@ -6,9 +6,15 @@ body {
   font-weight:400;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1, h2 {
   color:#222;
-  margin:0 0 20px;
+  margin:0 0 5px;
+}
+
+/* don't do spacing after smaller headers to keep it compact */
+h3, h4, h5, h6 {
+  color:#222;
+  margin:0 0 5px;
 }
 
 p, ul, ol, table, pre, dl {
@@ -35,12 +41,12 @@ h3, h4, h5, h6 {
 }
 
 a {
-  color:#39c;
+  color:#DE6C45;
   text-decoration:none;
 }
 
 a:hover {
-  color:#069;
+  color:#B95B3B;
 }
 
 a small {
@@ -154,8 +160,13 @@ header ul a:active {
 }
 
 strong {
-  color:#222;
+  /*color:#222;*/
   font-weight:500;
+}
+
+weak {
+  /*color:#222;*/
+  font-weight:250;
 }
 
 header ul li + li + li {
@@ -170,7 +181,7 @@ header ul a strong {
 }
 
 section {
-  width:500px;
+  width:550px;
   float:right;
   padding-bottom:50px;
 }
@@ -267,4 +278,62 @@ footer {
     font-size:12pt;
     color:#444;
   }
+}
+
+
+/*Personal Changes*/
+.circular--portrait {
+  display: inline-block;
+  position: relative;
+  /*width: 200px;
+  height: 200px;*/
+  overflow: hidden;
+  border-radius: 50%;
+}
+
+.circular--portrait img {
+  width: 100%;
+  height: auto;
+}
+
+/* Icon */
+
+rounded_stack {
+  font-weight:200;
+  border-radius: 25px;
+  border: 1px solid #753742;
+  padding: 1.5px; 
+  width: 200px;
+  height: 150px;
+  text-align: center;
+  /*color: blue;*/  
+}
+
+rounded_task {
+  font-weight:200;
+  border-radius: 25px;
+  border: 1px solid #C89B7B;
+  padding: 1.5px; 
+  width: 200px;
+  height: 150px;
+  text-align: center;
+  /*color: blue;*/  
+}
+
+circle {
+  border-style:solid;
+  border-color:#287EC7;
+  position: relative;
+  display: inline-block;
+  /*width: 100;
+  height: 0;*/
+  padding: 3px 2px;
+  border-radius: 90%;
+  
+  
+/*  background: #38a9e4;
+*/  color: blue;
+/*  font-family: Helvetica, Arial Black, sans;
+*/
+  text-align: center;
 }

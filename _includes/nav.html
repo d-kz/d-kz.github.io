@@ -1,0 +1,23 @@
+<!-- <ul>
+	RECURSIVE TEMPLATE IF EVER NEEDED
+  {% for item in include.posts %}
+    <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+
+    {% if item.subnav %}
+      {% include nav.html nav=item.subnav %}
+    {% endif %}
+  {% endfor %}
+</ul> -->
+
+<!-- Navigate to Home -->
+<!-- <h1><a href="{{ site.baseurl }}/">HOME</a></h1> -->
+<!-- <hr> -->
+{% for post in include.posts %}
+	{%if page.title == post.title %}
+		<!-- Highlight current page -->
+    	<h2><a href="{{ site.baseurl }}{{ post.url }}"> {{ post.title }}</a> < </h2>
+	{% endif %}
+	{%if page.title != post.title %}
+    	<h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+	{% endif %}
+{% endfor %}

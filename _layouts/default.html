@@ -1,0 +1,76 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>{{ site.title }}</title>
+
+    <link rel="stylesheet" href="{{ site.baseurl }}/stylesheets/styles.css">
+    <link rel="stylesheet" href="{{ site.baseurl }}/stylesheets/pygment_trac.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <meta name="viewport" content="width=device-width">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <!-- 
+    REFERENCES:
+      https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet 
+    -->
+  </head>
+  <body>
+    <div class="wrapper">
+      
+      <header> 
+        <h1 align="center"><a href="{{ site.baseurl }}/"> {{ site.name }} </a></h1>
+
+        {% if page.home == 1 %}
+        <div align="center"> 
+          <a href="https://www.linkedin.com/in/94kazakov/" class="fa fa-linkedin-square" style="font-size:36px">  </a> 
+          <a href="https://medium.com/@deniskazakov" class="fa fa-medium" style="font-size:36px">  </a> 
+          <a href="/pdf/DenisKazakov_resume.pdf" class="fa fa-file-text-o" style="font-size:36px">  </a> 
+          <a href="https://github.com/d-kz" class="fa fa-github" style="font-size:36px">  </a> 
+          <a href="https://www.instagram.com/beauty_fondue/" class="fa fa-instagram" style="font-size:36px">  </a> 
+
+          <br><br>
+
+
+          <img class="circular--portrait" src = "/images/logo.jpg?raw=true">
+          
+
+           Hi! I am an experienced data scientist who has worked on data-driven problems in both academia and industry. My professional goal is to improve the lives of others through technology.
+          <br><br>
+           I had the privilege of working on awesome data problems such as NLP at Amazon, self-driving cars at Uber, newsroom analytics at Chartbeat, cutting-edge ML research, and many more (details in <a href="/pdf/DenisKazakov_resume.pdf"> <b>resume</b></a>). I'm always curious about new projects and interesting people, so please feel free to 
+          <a href="mailto:94kazakov@gmail.com?Subject=Hello%20from%20your%20page" target="_top"><b>reach out</b></a>!
+
+          <br><br>
+          <img class="circular--portrait" src = "/images/wave.png?raw=true">
+        </div>
+        {% endif %}
+          
+
+        {% if page.home == 0 %}
+          {% include nav.html posts=site.pages %}
+        {% endif %}
+
+        
+
+
+      </header>
+      
+      <section>
+        <div id="main" role="main" class="container">
+          {{ content }}
+        </div>
+      </section>
+
+      
+      <footer>
+        <!-- CREDIT FOR THIS PROJECT GOES TO STEVE SMITH (removed for aesthetics) -->
+        <!-- <p><small>OG template credit to: <a href="http://github.com/orderedlist">Steve Smith</a></small></p> -->
+      </footer>
+    </div>
+    <!-- <script src="javascripts/scale.fix.js"></script> -->
+  </body>
+</html>
