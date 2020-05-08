@@ -27,7 +27,7 @@ Initially, was going to read framework type of textbook on design, but realized 
 ## 6: (Josh) Climate Policy Design 
 Focusing on **feed-in tarrifs**, **renewable portfolio standards**.
 ### Reading:
-- Hal Harvey, _Designing Climate Solutions: A Policy Guide for Low-Carbon Energy_ — energy section, specifically the design recommendations and case study subsections\
+- Hal Harvey, _Designing Climate Solutions: A Policy Guide for Low-Carbon Energy_ — energy section, specifically the design recommendations and case study subsections
 
 ### came up:
 - [Leap: solar power](https://leap.energy/?fbclid=IwAR2k87jaYxTxlyKmnlX2tDlcubTIsE7SECGPh4_DlBK_K5IUxZ0HLzrrvm8)
@@ -41,7 +41,7 @@ After having studied theoretical market design and it's use in the world, we dis
 ### Reading:
 - Understanding Discrimination in "Optimally Designed Markets"
 	- Practical Study: Racial Discrimination in the Sharing Economy, Edelman et al., 2016 (Only the introduction needed)
-	- Practical Study: Racial and Gender Discrimination in Transportation Network Companies, Ge et Al., 2016 (Introduction and Potential Modifications)\
+	- Practical Study: Racial and Gender Discrimination in Transportation Network Companies, Ge et Al., 2016 (Introduction and Potential Modifications)
 - Theoretical Work:
 	- Racial Discrimination in Labor Markets with Posted Wage Offers, Lang et Al., 2015 (Only introduction needed but the whole paper was fascinating)
 - How do designers avoid the problems above? What are the problems with obvious solutions like anonymity?:
