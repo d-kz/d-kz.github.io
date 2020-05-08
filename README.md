@@ -1,10 +1,10 @@
 ## Personal Site 
-This is a statis site, bulit by Jekyll. Feel free to reuse this for your purposes. This template was made by modifying style template by [minimal](https://pages-themes.github.io/minimal/), and layout template by [jekyll quick portfolio](https://github.com/evanca/quick-portfolio). 
+This is a static site, bulit by Jekyll. Feel free to reuse this for your purposes. This template was made by modifying style template by [minimal](https://pages-themes.github.io/minimal/), and layout template by [jekyll quick portfolio](https://github.com/evanca/quick-portfolio). 
 
 ### Guidelines:
 * To render locally:
 ``` 
-served by default on http://127.0.0.1:4000/
+# served by default on http://127.0.0.1:4000/
 jekyll serve
 ``` 
 
