@@ -2,7 +2,7 @@
 layout: default
 title: Helpful Resources
 home: 0
-about: Resources and links for acitivits. 
+about: Resources and links for acitivities. 
 ---
 
 # {{page.title}}
