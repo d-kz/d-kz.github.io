@@ -8,23 +8,24 @@ about: Resources and links for acitivities.
 # {{page.title}}
 {{page.about}} 
 
-## Surfing
+---
+## Sports
+### Surfing
 - [MagicSeaWeed](https://magicseaweed.com/Rockaway-Surf-Report/384/) - wave forecast (Rockaway beach)
 
-## Skiing
+### Skiing
 - [OnTheSnow](https://www.onthesnow.com/colorado/winter-park-resort/skireport.html) - snow forecast and history (Winter Park)
 - [OpenSnow](https://opensnow.com/state/CO#forecasts) - 10 day snow forecast (Colorado Rockies)
 - [Evo](https://www.evo.com/) - discounted gear, not just skiing
 
-## Hiking
+### Hiking
 - [AllTrails](https://www.alltrails.com/)
 
-## Yoga
+### Yoga
 - [Yoga with Adriene](https://www.youtube.com/user/yogawithadriene) - awesome guided yoga lessons with insightful perceptions of movement.
 
-
+---
 ## Courses:
-
 ### Game theory/(Multi-Agent) Reinforcement Learning (MARL)
 - (Foundations):
 	- [Game Theory (Standord, UBC), part 1](https://www.coursera.org/learn/game-theory-1) - lacks intuition, but a good structure. Introduces Nash's equilibrium, strategies, convergence intuition for strategies, (non)zero-sum games, (im)perfect information games. 

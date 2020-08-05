@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Design Reading Group
+title: Design Reading Group (paused)
 home: 0
 about: Bi-weekly meetup to discuss design of things in all shape and form. 
 ---
@@ -15,6 +15,14 @@ Current members:
 
 Past topics and readings are below. Not all of the readings are included, but sci-hub.. 
 
+---
+## 8: (Josh, Denis) Urban Design
+### Reading:
+- [basic vocabulary and principles of urban design](https://www.bremertonwa.gov/DocumentCenter/View/697/Urban-Design-Strategies-PDF)
+- [Vox on Barcelona (part 2 of the series) walkable spaces in Barcelona.](https://www.vox.com/energy-and-environment/2019/4/9/18273894/barcelona-urban-planning-superblocks-poblenou)
+- [Vox on Barcelona (part 5 of the series) commentary on US spaces in comparison to Barcelona.](https://www.vox.com/energy-and-environment/2019/4/12/18273897/barcelona-urban-planning-portland-oregon-superblocks) 
+- [Jane Jacobs: "The Death and Life of Great American Cities" - considered a classic. Just started reading to see what's interesting.](https://www.buurtwijs.nl/sites/default/files/buurtwijs/bestanden/jane_jacobs_the_death_and_life_of_great_american.pdf)
+- Maybe some of these as a potential source to add from: https://www.theguardian.com/cities/series/the-story-of-cities
 
 ---
 ## 7: (Denis) Japanese Design
