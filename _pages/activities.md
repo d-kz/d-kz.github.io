@@ -11,7 +11,7 @@ about: Resources and links for acitivities.
 ---
 ## Sports
 ### Surfing
-- [MagicSeaWeed](https://magicseaweed.com/Rockaway-Surf-Report/384/) - wave forecast (Rockaway beach)
+- [MagicSeaWeed](https://magicseaweed.com/Rockaway-Surf-Report/384/) - the best 7 day wave forecast across the world. 
 
 ### Skiing
 - [OnTheSnow](https://www.onthesnow.com/colorado/winter-park-resort/skireport.html) - snow forecast and history (Winter Park)
@@ -23,6 +23,9 @@ about: Resources and links for acitivities.
 
 ### Yoga
 - [Yoga with Adriene](https://www.youtube.com/user/yogawithadriene) - awesome guided yoga lessons with insightful perceptions of movement.
+
+### Mountain Biking
+- [TrailForks](https://www.trailforks.com) - routes with their difficulty for mountain biking. 
 
 ---
 ## Courses:

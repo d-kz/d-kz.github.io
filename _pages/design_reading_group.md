@@ -6,7 +6,7 @@ about: Bi-weekly meetup to discuss design of things in all shape and form.
 ---
 
 # {{page.title}}
-{{page.about}} Feel free to <a href="mailto:94kazakov@gmail.com?Subject=Hello%20from%20your%20page" target="_top"><b>reach out</b></a> if you'd like to join. 
+{{page.about}} Feel free to <a href="mailto:deka6994@colorado.edu?Subject=Hello%20from%20your%20page" target="_top"><b>reach out</b></a> if you'd like to join. 
 
 Current members:
 - Denis Kazakov
